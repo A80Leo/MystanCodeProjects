@@ -4,7 +4,7 @@ This repository holds my programming projects done during the period of stanCode
 
 ## Project Source Codes:
 
-*[BeeperRow](https://github.com/A80Leo/MystanCodeProjects/blob/main/MystanCodeProjects/BeeperRow.py)
+•[BeeperRow](https://github.com/A80Leo/MystanCodeProjects/blob/main/MystanCodeProjects/BeeperRow.py)
 *[BeeperRowAdv](https://github.com/A80Leo/MystanCodeProjects/blob/main/MystanCodeProjects/BeeperRowAdv.py)
 python semantics & syntax
 *[DoubleBeepers](https://github.com/A80Leo/MystanCodeProjects/blob/main/MystanCodeProjects/DoubleBeepers.py)
